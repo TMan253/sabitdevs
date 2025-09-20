@@ -1,15 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 68"
-meetup: https://www.meetup.com/bitcoin-park-austin/events/306712636/
+title: "Socratic 21"
+meetup: https://www.meetup.com/sabitdevs/events/311040826/
 ---
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - [Early Riders - Stables](https://www.earlyriders.com/stables)
 
 # Semi-Regular Installment of Bitcoin Trivia!
@@ -22,6 +20,7 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306712636/
 - [AI Malware](https://x.com/InsiderPhD/status/1960680273168711807)
 - [A knotty irony](https://insider.btcpp.dev/p/a-knotty-irony)
 - [Block Reconstruction rates go up](https://x.com/glozow/status/1968310311221657809)
+- [Ban Knots v1.10](https://x.com/noosphere888x2/status/1968778676645888315)
 - [Min relay fee across the network](https://delvingbitcoin.org/t/measuring-minrelaytxfee-across-the-bitcoin-network/1989)
 - [Signet Vulnerability](https://github.com/bitcoin/bitcoin/issues/33266)
 - [Mutinynet upgrade](https://x.com/benthecarman/status/1968794533291794509)
@@ -37,3 +36,5 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306712636/
 - [Zero fee commitment txs in LDK](https://github.com/lightningdevkit/rust-lightning/pull/4053)
 - [Paypal bitcoin support](https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere)
 - [Wallet encryption BIP](https://groups.google.com/g/bitcoindev/c/3I-qtBhzIGY)
+
+# Lightning Topics
