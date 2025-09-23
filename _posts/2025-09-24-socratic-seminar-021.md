@@ -38,3 +38,14 @@ meetup: https://www.meetup.com/sabitdevs/events/311040826/
 - [Wallet encryption BIP](https://groups.google.com/g/bitcoindev/c/3I-qtBhzIGY)
 
 # Lightning Topics
+- [State of Lightning Privacy](https://stacker.news/items/1194307)
+- [Payjoin Dev Kit](https://x.com/payjoindevkit/status/1953813941546631388)
+- [The Gentleman's Guide To Routing Nodes](https://stacker.news/items/1093487)
+- [Lightning Information](https://www.lopp.net/lightning-information.html)
+- [Shutting down my routing node](https://stacker.news/items/1205543)
+- [LQWD Claims 24% Annualized Lightning Network Yield](https://stacker.news/items/1198801)
+- [Stripe launches L1 to deliver scalable crypto payments???](https://x.com/patrickc/status/1963638753752420407)
+- [Relai sunsets Lightning and claims "No one uses it"](https://x.com/julian_liniger/status/1960225937213063584)
+- [ChipperCash reaches 50% Lightning Adoption](https://x.com/voltage_cloud/status/1966129576330821655)
+- [Alby Hub Lightning Stats](https://x.com/getAlby/status/1965785549664366862)
+- ["Lightning Is Misunderstood" BTCMAG Article](https://bitcoinmagazine.com/print/lightning-is-misunderstood)
