@@ -21,6 +21,7 @@ meetup: https://www.meetup.com/sabitdevs/events/311040826/
 - [A knotty irony](https://insider.btcpp.dev/p/a-knotty-irony)
 - [Block Reconstruction rates go up](https://x.com/glozow/status/1968310311221657809)
 - [Ban Knots v1.10](https://x.com/noosphere888x2/status/1968778676645888315)
+- [What to know before running Knots](https://blog.lopp.net/knot-a-serious-project/)
 - [Min relay fee across the network](https://delvingbitcoin.org/t/measuring-minrelaytxfee-across-the-bitcoin-network/1989)
 - [Signet Vulnerability](https://github.com/bitcoin/bitcoin/issues/33266)
 - [Mutinynet upgrade](https://x.com/benthecarman/status/1968794533291794509)
