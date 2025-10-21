@@ -1,8 +1,8 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 69"
-meetup: https://www.meetup.com/bitcoin-park-austin/events/306401055/
+title: "Socratic 22"
+meetup: https://www.meetup.com/sabitdevs/events/311191963/
 ---
 
 # Announcements
@@ -17,11 +17,14 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306401055/
 
 # Topics
 
+## Bitcoin
+
 - [Bitcoin for signal](https://bitcoinforsignal.com/)
 - [Bisq on mobile](https://x.com/bisq_network/status/1977027198717771941)
 - [ICE raids bitcoin mine in Pyote, Texas](https://blockspace.media/insight/ice-raids-bitcoin-mine-in-pyote-texas/)
 - [Canada seizes exchange funds](https://www.therage.co/tradeogre-seized-canada/)
 - [Canadian police seize funds, announce via OP_RETURN](https://mempool.space/tx/e8a6c482503387d7215ce553c2b6157a2f6af574da2904c9bfba887f6ce9e646?mode=details)
+- [How decentralized is your project?](https://x.com/LefterisJP/status/1980196064327258535)
 - [Undeprecate datacarrier and datacarriersize configuration options](https://github.com/bitcoin/bitcoin/pull/33453)
 - [Bitcoin Core 30.0 released](https://bitcoincore.org/en/releases/30.0/)
 - [Bitcoin Knots v29.2 released](https://github.com/bitcoinknots/bitcoin/releases/tag/v29.2.knots20251010)
@@ -39,3 +42,12 @@ meetup: https://www.meetup.com/bitcoin-park-austin/events/306401055/
 - [The inability to embed data into Schnorr](https://github.com/AdamISZ/schnorr-unembeddability/blob/master/unembed.pdf)
 - [Optimal Threshold Signatures in Bitcoin](https://delvingbitcoin.org/t/optimal-threshold-signatures-in-bitcoin/2023/1)
 - [Flattening Nested 2-of-2 Of a 1-of-1 And a k-of-n](https://delvingbitcoin.org/t/flattening-nested-2-of-2-of-a-1-of-1-and-a-k-of-n/2018/1)
+- [Frigate Electrum](https://stacker.news/items/1215429)
+
+## Lightning
+
+- [How to open simple Taproot channels on LND](https://stacker.news/items/1224074)
+- [Everything Rene Pickhardt knows about Routing and Liquidity on the LN](https://stacker.news/items/1249134)
+- [Channel depletion, LN Topology, Cycles and rational behavior of nodes](https://delvingbitcoin.org/t/channel-depletion-ln-topology-cycles-and-rational-behavior-of-nodes/1259)
+- [MultiChannel and MultiPTLC](https://delvingbitcoin.org/t/multichannel-and-multiptlc-towards-a-global-high-availability-consistent-partition-tolerant-database-for-bitcoin-payments/1983)
+- [A Decker-Wattenhofer MultiChannel For Reduced Inter-LSP Trust](https://delvingbitcoin.org/t/a-decker-wattenhofer-multichannel-for-reduced-inter-lsp-trust/1994)
