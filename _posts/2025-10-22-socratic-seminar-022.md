@@ -7,11 +7,9 @@ meetup: https://www.meetup.com/sabitdevs/events/311191963/
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 
-# Semi-Regular Installment of Bitcoin Trivia!
+# Bitcoin Trivia!
 
 - [trivia](https://x.com/base58btc/status/1978878417865990231)
 
