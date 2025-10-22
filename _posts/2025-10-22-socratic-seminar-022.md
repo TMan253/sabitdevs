@@ -15,8 +15,15 @@ meetup: https://www.meetup.com/sabitdevs/events/311191963/
 
 # Topics
 
+## TABConf 7
+
+- Hunter Beast session on BIP-360
+- BDK sessions
+- Satoshi Speedway
+
 ## Bitcoin
 
+- [Nic Carter series on Quantum & BTC](https://murmurationstwo.substack.com/p/bitcoin-and-the-quantum-problem-part)
 - [Bitcoin for signal](https://bitcoinforsignal.com/)
 - [Bisq on mobile](https://x.com/bisq_network/status/1977027198717771941)
 - [ICE raids bitcoin mine in Pyote, Texas](https://blockspace.media/insight/ice-raids-bitcoin-mine-in-pyote-texas/)
