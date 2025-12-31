@@ -1,22 +1,18 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 71"
-meetup: https://www.meetup.com/bitcoin-park-austin/events/306401058/?eventOrigin=group_featured_event
+title: "Socratic 24"
+meetup: https://www.meetup.com/sabitdevs/events/312653769/
 ---
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - [₿OSS Challenge](https://bosschallenge.xyz/)
 
 # Semi-Regular Installment of Bitcoin Trivia!
 
-What bitcoin holiday was inaugurated in 12 years ago on this day?
-
-And the base58 sponsored [trivia](https://x.com/base58school/status/2001785069997097368?s=20)
+[trivia](https://x.com/base58school/status/2001785069997097368?s=20)
 
 
 # Topics
