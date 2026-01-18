@@ -1,25 +1,19 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 72"
-meetup: https://www.meetup.com/bitcoin-park-austin/events/306401060/
+title: "Socratic 25"
+meetup: https://www.meetup.com/sabitdevs/events/312072313/
 ---
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
-
-# Semi-Regular Installment of Bitcoin Trivia!
-
-Base58 sponsored [trivia](https://x.com/base58school/status/)
 
 
 # Topics
 
 ## Bugs
-- [Bitcoin Core 30.2 release](https://bitcoincore.org/en/releases/30.2/)
+- [Bitcoin Core v30.2 release](https://bitcoincore.org/en/releases/30.2/)
 
 ## Research
 - [Hash-Based Signatures for Bitcoin's Post-Quantum Future](https://groups.google.com/g/bitcoindev/c/gOfL5ag_bDU)
