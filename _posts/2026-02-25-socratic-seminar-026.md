@@ -1,15 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 73"
-meetup: https://www.meetup.com/bitcoin-park-austin/events/306401061/
+title: "Socratic 26"
+meetup: https://www.meetup.com/sabitdevs/events/312966249/
 ---
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 
 # Semi-Regular Installment of Bitcoin Trivia!
 
@@ -26,8 +24,9 @@ Base58 sponsored [trivia](https://x.com/base58school/status/)
 - [Quantum resistance with covenants](https://groups.google.com/g/bitcoindev/c/Sl9qQOuuAoI)
 - [Removed glozow from trusted-keys](https://github.com/bitcoin/bitcoin/pull/34517)
 - [$1,000,000 lightning transaction](https://x.com/iBobbyShell/status/2019407415566037129)
-- [River: Lightning Network exceeds $1B in monthly volume](https://x.com/River/status/2024532716859883971)
+- [River: Lightning Network exceeds $1B in monthly volume](https://bitcoinmagazine.com/news/bitcoins-lightning-network-surpasses)
 - [L402 Agentic Payments](https://lightning.engineering/posts/2026-02-11-ln-agent-tools/)
+- [Claw Cash](https://x.com/bergealex4/status/2024133242782404913)
 - [Hourglass V2 Update](https://groups.google.com/g/bitcoindev/c/0E1UyyQIUA0)
 - [The limitations of cryptographic agility in Bitcoin](https://groups.google.com/g/bitcoindev/c/O6l3GUvyO7A)
 - [BIP Proposal-Output Script Descriptor Annotations](https://groups.google.com/g/bitcoindev/c/ozjr1lF3Rkc)           
