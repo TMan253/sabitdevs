@@ -16,6 +16,7 @@ Base58 sponsored [trivia](https://x.com/base58school/status/)
 
 # Topics
 
+- [p2pool-go decentralized mining](https://x.com/proofofcash/status/2023836349556781522?s=46)
 - [Arkade OS Tapscript](https://x.com/arkade_os/status/2013249214013440084)
 - [BDK Anti-fee sniping](https://github.com/bitcoindevkit/bdk-tx/pull/5)
 - [Bitcoin Infrastructure Companies](https://x.com/RyanTheGentry/status/2014007727891083320)
