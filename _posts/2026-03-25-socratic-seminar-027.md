@@ -1,17 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 74"
-meetup: https://www.meetup.com/bitcoin-park-austin/events/311890984/
+title: "Socratic 27"
+meetup: https://www.meetup.com/sabitdevs/events/313532736/
 ---
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
-
-- [Btc++ Vegas](https://btcplusplus.dev/conf/vegas) 
 
 # Semi-Regular Installment of Bitcoin Trivia!
 
@@ -19,7 +15,7 @@ Base58 sponsored [trivia](https://x.com/base58school/status/2034773043919069532)
 
 # Topics
 
-- [Bitcoin++ Exploits Edition](https://loot.fund/hackathons/bitcoin-exploits-edition/applications)
+- [Bitcoin++ Exploits Edition](https://www.youtube.com/watch?v=-XmVg3kv5H4&list=PLZdV4KsJUf8eCnc1k4TrYaqVocoo3d5pM)
 - [Bitcoin knowledge base](https://bitcoinknowledge.dev/)
 - [Allow recovery of MtGox stolen funds](https://github.com/bitcoin/bitcoin/pull/34695)
 - [John Cantrell back and working on MDK-Cloudflare](https://x.com/johncantrell97/status/2033942088983708156)
@@ -37,7 +33,7 @@ Base58 sponsored [trivia](https://x.com/base58school/status/2034773043919069532)
 - [OP_PAIRCOMMIT BIP442](https://github.com/bitcoin/bips/blob/master/bip-0442.md)
 - [BIP448](https://github.com/bitcoin/bips/pull/1974)
 - [BIP54 is gaining traction](https://mempool.space/block/000000000000000000007d2904c00f3dcbdf465eacc355442a774a3486f0e52a)
-- [live on inquisition and possible attack vector](https://groups.google.com/g/bitcoindev/c/wOVjJoLDWfA)
+    - [Live on inquisition and possible attack vector](https://groups.google.com/g/bitcoindev/c/wOVjJoLDWfA)
 - [Bitcoin PIPEs v2](https://groups.google.com/g/bitcoindev/c/iva-eCNrmuc)
 - [Recent OP_RETURN output statistics](https://delvingbitcoin.org/t/recent-op-return-output-statistics/2248)
 - [Writing Fuzz Targets for Wallets: Avoiding Known Issues](https://delvingbitcoin.org/t/writing-fuzz-targets-for-wallets-avoiding-known-issues/2316) 
