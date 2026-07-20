@@ -12,7 +12,6 @@ meetup: https://www.meetup.com/sabitdevs/events/315730409/
 
 # Topics
 
-- [Remove Taproot BIP 9 Deployment](https://github.com/bitcoin/bitcoin/pull/26201)
 - [Quantum resistance on Liquid](https://blog.blockstream.com/blockstream-research-demonstrates-quantum-resistant-transaction-signing-on-liquid-using-simplicity-smart-contracts/)
 - [Blockslop:  Another BIP-110 consensus bug](https://x.com/DathonPwn/status/2078514978773192779)
 - [40% faster sync with parallel input prevout fetcher](https://x.com/lopp/status/2077720604065567151)
