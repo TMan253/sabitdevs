@@ -8,7 +8,6 @@ meetup: https://www.meetup.com/sabitdevs/events/315730409/
 # Announcements
 
 - Interaction and asking questions are encouraged
-- [Btc++ Vegas](https://btcplusplus.dev/conf/vegas)
 
 # Topics
 
