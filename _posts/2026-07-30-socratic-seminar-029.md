@@ -10,27 +10,14 @@ meetup: https://www.meetup.com/sabitdevs/events/315730409/
 - Interaction and asking questions are encouraged
 - [Btc++ Vegas](https://btcplusplus.dev/conf/vegas)
 
-# Semi-Regular Installment of Bitcoin Trivia!
-
-Base58 sponsored [trivia](https://x.com/base58school/status/2044839425075560449?s=20)
-
 # Topics
 
-- [ProductionReady Launches](https://productionready.org/blog/productionready-launches)
-- [Lexe Wallet Public Release on App Store and Google Play](https://blog.lexe.app/public-launch/)
-- [Policy: Report Debug Message Why Inputs Are Non-Standard](https://github.com/bitcoin/bitcoin/pull/29060)
 - [Remove Taproot BIP 9 Deployment](https://github.com/bitcoin/bitcoin/pull/26201)
-- [Wallet Fingerprinting and Payjoin Privacy](https://payjoin.org/blog/2026/03/25/wallet-fingerprints-payjoin-privacy)
-- [A Decade of Workarounds](https://spiralbtc.substack.com/p/a-decade-of-workarounds)
-- [Bitcoin v31 tagged](https://github.com/bitcoin/bitcoin/blob/e9f1466155849d886faaf89b2ccf1a0a46b9b1fe/doc/release-notes.md)
-- [BIP440/BIP441: Varops Budget and Script Restoration](https://github.com/bitcoin/bips/pull/2118)
-- [Project Eleven Quantum Paper](https://x.com/projecteleven/status/2038821373103984850)
-- [Quantum-Safe Bitcoin w/o Softforks](https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions/blob/main/paper/QSB.pdf)
-- [Post-Quantum BIP-86 Recovery via zk-STARK Proof of BIP-32 Seed Knowledge](https://groups.google.com/g/bitcoindev/c/Q06piCEJhkI?pli=1)
-- [PQC Precommitment Migration via Tapscript](https://github.com/csuwildcat/pqc-precommitment-migration)
-- [In Defense of a PQ Output Type](https://groups.google.com/g/bitcoindev/c/JA3kDl8AmQg)
-- [BIP-361: Post Quantum Migration and Legacy Signature Sunset](https://github.com/bitcoin/bips/blob/master/bip-0361.mediawiki)
-- [Brink Funding Fabian for CISA Research](https://x.com/bitschmidty/status/2041143804883788115?s=20)
-- [Hornet Node: Executable Bitcoin Consensus Spec](https://x.com/bitcoindudebro/status/2044553522470146298)
-- [BIP-322: Clarify Motivation, Add Prefix, Describe PSBT Signing](https://github.com/bitcoin/bips/pull/2141)
-- [Two Block Reorg at Height 941880](https://bnoc.xyz/t/two-block-reorg-at-height-941880/97)
+- [Quantum resistance on Liquid](https://blog.blockstream.com/blockstream-research-demonstrates-quantum-resistant-transaction-signing-on-liquid-using-simplicity-smart-contracts/)
+- [Blockslop:  Another BIP-110 consensus bug](https://x.com/DathonPwn/status/2078514978773192779)
+- [40% faster sync with parallel input prevout fetcher](https://x.com/lopp/status/2077720604065567151)
+- [Bark live on mainnet](https://blog.second.tech/bark-now-on-bitcoin-mainnet/)
+- [WoS gets stablecoins](https://www.livebitcoinnews.com/wallet-of-satoshi-adds-stablecoins-to-lightning-in-major-bitcoin-upgrade/)
+- [SBF:  Bye, Felicia](https://bitcoinmagazine.com/news/senate-unanumously-bankman-fried)
+- [Cloudflare x402](https://bitcoinmagazine.com/business/cloudflare-x402-integration-opens-door-for-bitcoin-in-ai-agent-micropayments)
+
