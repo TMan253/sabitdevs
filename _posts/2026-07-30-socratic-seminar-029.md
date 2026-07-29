@@ -21,4 +21,7 @@ meetup: https://www.meetup.com/sabitdevs/events/315730409/
 - [Poolin bankruptcy](https://x.com/coinbureau/status/2080549601183224238)
 - [Wavelength non-custodial LNaaS from Lightning Labs](https://x.com/lightning/status/2079620936567779707)
 - [Satsuma sinks](https://bitcoinmagazine.com/news/satsuma-shareholders-bitcoin-liquidation)
-[Lexe BIP-353+LN Addresses](https://x.com/lexeapp/status/2079245197817548964)
+- [Lexe BIP-353+LN Addresses](https://x.com/lexeapp/status/2079245197817548964)
+- [Bye, escheatment trolls](https://x.com/intangiblecoins/status/2081055716282953999)
+- [Monitor the BIP-110 situation](https://x.com/OrangeSurfBTC/status/2081354862957117586)
+- [Silent Payments BIP-352 now in libsecp256k1](https://x.com/theStack/status/2081496942501036154)
