@@ -19,3 +19,4 @@ meetup: https://www.meetup.com/sabitdevs/events/315925946/
   - [NVK's problematic history](https://x.com/Vladcostea/status/2083286735220552077?s=20)
   - [How we got here](https://x.com/zherbert/status/2082993276324319713?s=20)
   - [Full RCA](https://open.substack.com/pub/btcpp/p/when-randombytes-runs-but-doesnt?r=lr2l&utm_campaign=post)
+  - [What Bitcoin [Core] did](https://x.com/bitschmidty/status/2082496590783103424)
