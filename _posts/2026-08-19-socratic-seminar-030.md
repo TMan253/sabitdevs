@@ -35,3 +35,4 @@ meetup: https://www.meetup.com/sabitdevs/events/315925946/
 - [BARK 0.5.0 with balance restore](https://x.com/secondhq/status/2084716752789991614)
 - [HIVE Digital relocates to San Antonio!](https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-announces-relocation-of-head-office-to-san-antonio-texas-and-transition-to-us-gaap-reporting/)
 - [BitMEX shutting down](https://x.com/FarsideInsights/status/2084211693266067514)
+- [Block roadmap - 5% BTC back via LN pay!](https://block.xyz/bitcoin/roadmap)
