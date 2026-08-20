@@ -1,17 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 76"
-meetup: https://luma.com/z236plhp
+title: "Socratic 29"
+meetup: https://www.meetup.com/sabitdevs/events/316192558/
 ---
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- Austin Bitdevs continues!
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- [Btc++ Vegas](https://btcplusplus.dev/conf/vegas)
 
 # Releases
 - [Bitcoin Core v31](https://github.com/bitcoin/bitcoin/releases/tag/v31.0)

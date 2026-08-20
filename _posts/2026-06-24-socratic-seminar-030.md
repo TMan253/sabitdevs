@@ -1,15 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 77"
-meetup: https://luma.com/utl5cet6
+title: "Socratic 30"
+meetup: https://www.meetup.com/sabitdevs/events/316192558/
 ---
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 
 # Releases
 
