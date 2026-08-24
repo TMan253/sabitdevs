@@ -11,6 +11,7 @@ meetup: https://www.meetup.com/sabitdevs/events/315925946/
 
 # Topics
 
+- [River backend upgrades described](https://x.com/Leishman/status/2090444731759096289)
 - [Mitigate LN channel jamming by charging for extended settlement time](https://delvingbitcoin.org/t/conditional-message-transfer-contract-to-solve-jamming/2772?utm_source=substack&utm_medium=email)
 - [Correcting the record on datacenter disinformation](https://x.com/cremieuxrecueil/status/2078258808225214619)
 - [Coldcard hardware wallets are grossly insecure](https://x.com/callebtc/status/2083169923904180331?s=20)
