@@ -38,3 +38,5 @@ meetup: https://www.meetup.com/sabitdevs/events/315925946/
 - [HIVE Digital relocates to San Antonio!](https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-announces-relocation-of-head-office-to-san-antonio-texas-and-transition-to-us-gaap-reporting/)
 - [BitMEX shutting down](https://x.com/FarsideInsights/status/2084211693266067514)
 - [Block roadmap - 5% BTC back via LN pay!](https://block.xyz/bitcoin/roadmap)
+- [Sparrow Wallet v2.5.4 - *security release*](https://x.com/SparrowWallet/status/2092945249849037121)
+- [SHRINCS BIP drafted](https://x.com/n1ckler/status/2092740384938226107)
