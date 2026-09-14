@@ -40,3 +40,4 @@ meetup: https://www.meetup.com/sabitdevs/events/315925946/
 - [Block roadmap - 5% BTC back via LN pay!](https://block.xyz/bitcoin/roadmap)
 - [Sparrow Wallet v2.5.4 - *security release*](https://x.com/SparrowWallet/status/2092945249849037121)
 - [SHRINCS BIP drafted](https://x.com/n1ckler/status/2092740384938226107)
+- [Liquid bridge hack](https://insider.btcpp.dev/p/how-cache-optimization-not-broken?utm_source=substack&utm_medium=email)
