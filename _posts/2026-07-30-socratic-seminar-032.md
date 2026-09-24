@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 29"
+title: "Socratic 32"
 meetup: https://www.meetup.com/sabitdevs/events/315730409/
 ---
 

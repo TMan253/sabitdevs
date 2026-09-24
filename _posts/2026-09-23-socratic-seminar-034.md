@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 30"
+title: "Socratic 34"
 meetup: https://www.meetup.com/sabitdevs/events/315925946/
 ---
 
@@ -11,6 +11,8 @@ meetup: https://www.meetup.com/sabitdevs/events/315925946/
 
 # Topics
 
+- [River backend upgrades described](https://x.com/Leishman/status/2090444731759096289)
+- [Mitigate LN channel jamming by charging for extended settlement time](https://delvingbitcoin.org/t/conditional-message-transfer-contract-to-solve-jamming/2772?utm_source=substack&utm_medium=email)
 - [Correcting the record on datacenter disinformation](https://x.com/cremieuxrecueil/status/2078258808225214619)
 - [Coldcard hardware wallets are grossly insecure](https://x.com/callebtc/status/2083169923904180331?s=20)
   - [What to do if you're potentially affected](https://x.com/stephanlivera/status/2083073949328720181?s=20)
@@ -36,3 +38,6 @@ meetup: https://www.meetup.com/sabitdevs/events/315925946/
 - [HIVE Digital relocates to San Antonio!](https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-announces-relocation-of-head-office-to-san-antonio-texas-and-transition-to-us-gaap-reporting/)
 - [BitMEX shutting down](https://x.com/FarsideInsights/status/2084211693266067514)
 - [Block roadmap - 5% BTC back via LN pay!](https://block.xyz/bitcoin/roadmap)
+- [Sparrow Wallet v2.5.4 - *security release*](https://x.com/SparrowWallet/status/2092945249849037121)
+- [SHRINCS BIP drafted](https://x.com/n1ckler/status/2092740384938226107)
+- [Liquid bridge hack](https://insider.btcpp.dev/p/how-cache-optimization-not-broken?utm_source=substack&utm_medium=email)

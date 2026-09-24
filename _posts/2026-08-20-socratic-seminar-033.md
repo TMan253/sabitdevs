@@ -1,15 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 79"
-meetup: https://www.meetup.com/austin-computer-club/events/316095124/
+title: "Socratic 33"
+meetup: https://www.meetup.com/sabitdevs/events/316192558/
 ---
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 
 # Coldcard Vulnerability
 - [User reports their coldcard wallet being drained on reddit](http://www.reddit.com/r/Bitcoin/comments/1vatgl4/full_panic_one_of_my_wallets_was_drained/), [Discussion](https://stacker.news/items/1536238)

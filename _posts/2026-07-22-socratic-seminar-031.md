@@ -1,15 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 78"
-meetup: https://luma.com/1jrmkzp7?tk=VwBX6M
+title: "Socratic 31"
+meetup: https://www.meetup.com/sabitdevs/events/316192558/
 ---
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 
 # Releases
 - [Bitcoin Core 31.1](https://github.com/bitcoin/bitcoin/releases/tag/v31.1) 
