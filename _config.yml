@@ -15,3 +15,6 @@ description: "San Antonio Bitcoin Developers is a Meetup devoted to the research
 # Leave out some files
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache', vendor]
 
+# Enable deployment to GitHub Pages project site, instead of a root deployment
+url: "https://tman253.github.io"
+baseurl: "/sabitdevs"
