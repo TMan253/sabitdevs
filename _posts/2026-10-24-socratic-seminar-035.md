@@ -1,15 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 81"
-meetup: https://www.meetup.com/austin-computer-club/events/316716892/
+title: "Socratic 35"
+meetup: https://www.meetup.com/sabitdevs/events/317125755/
 ---
 
 # Announcements
 
-- Respect people's privacy
 - Interaction and asking questions are encouraged
-- [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 
 # Vulnerabilities
 - [Ledger devices have spy implants](https://x.com/Ledger_Support/status/2108551100613714002) - [only Cryptobilis or other resellers, too?](https://stacker.news/items/1593775/r/Scoresby) - [discussion](https://stacker.news/items/1592012/r/Scoresby)
@@ -76,6 +74,7 @@ meetup: https://www.meetup.com/austin-computer-club/events/316716892/
 - [Wallet playground](https://walletplayground.com/)
 
 # News
+- [Block adding transaction notes and coin control](https://block.xyz/bitcoin/roadmap)
 - [Liquid staged recovery update](https://blog.liquid.net/liquid-network-staged-recovery-update/) - [Discussion](https://stacker.news/items/1598699/r/Scoresby)
 - [Would you trust an entirely AI-written bitcoin node implementation?](https://stacker.news/items/1598294/r/Scoresby)
 - [Claude finds ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) - [Discussion](https://stacker.news/items/1596752/r/Scoresby)
@@ -90,5 +89,5 @@ meetup: https://www.meetup.com/austin-computer-club/events/316716892/
 - [The Progressive Bitcoiner shuts down and then tries to raise $2m](https://x.com/TPB_Inc/status/2101671691638243541) - [Discussion](https://stacker.news/items/1577623/r/Scoresby)
 
 # Bonus discussion
-- [ye olde fungibility discussion](https://stacker.news/items/1590321/r/Scoresby)
-- [anyone sold their Bcashjr coins?](https://stacker.news/items/1588648/r/Scoresby)
+- [Ye olde fungibility discussion](https://stacker.news/items/1590321/r/Scoresby)
+- [Anyone sold their Bcashjr coins?](https://stacker.news/items/1588648/r/Scoresby)
